@@ -54,8 +54,8 @@ all files and transform all go files with the ending .pb.go
 
 ```bash
 cd
-go get github.com/jerem1e/protoc-go-tags
-go install github.com/jerem1e/protoc-go-tags
+go get github.com/teng231/protoc-go-tags
+go install github.com/teng231/protoc-go-tags
 ```
 
 2. Using with command
