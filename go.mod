@@ -1,3 +1,3 @@
-module github.com/jerem1e/protoc-go-tags
+module github.com/teng231/protoc-go-tags
 
-go 1.15
+go 1.16
